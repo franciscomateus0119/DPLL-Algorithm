@@ -1,9 +1,0 @@
-c this
-c is
-c a
-c comment
-c line
-p cnf 3 3
-1 2 -3 0
--1 -3 0
-1 0
